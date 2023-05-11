@@ -56,7 +56,7 @@ namespace TreeGridViewMinRepo
             renameCommand.Executed += (sender, e) =>
             {
                 treeGridView.SelectedItem.Text = "New Text";
-                treeGridView.Control.Invalidate();
+                ((TreeGridView)treeGridView.Control).ReloadData();
             };
 
             // create menu
