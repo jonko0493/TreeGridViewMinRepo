@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridViewMinRepo", "TreeGridViewMinRepo\TreeGridViewMinRepo\TreeGridViewMinRepo.csproj", "{882AD016-5533-4589-B449-3D338B8E8574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridViewMinRepo.Gtk", "TreeGridViewMinRepo\TreeGridViewMinRepo.Gtk\TreeGridViewMinRepo.Gtk.csproj", "{2C89C013-0A07-4E8A-8A1E-E4DDB07BF8F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridViewMinRepo.Mac", "TreeGridViewMinRepo\TreeGridViewMinRepo.Mac\TreeGridViewMinRepo.Mac.csproj", "{5254BFC3-CEDE-4D77-9341-C1065C18F00C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeGridViewMinRepo.Wpf", "TreeGridViewMinRepo\TreeGridViewMinRepo.Wpf\TreeGridViewMinRepo.Wpf.csproj", "{7742D04B-1760-46D9-A486-291404FB47F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882AD016-5533-4589-B449-3D338B8E8574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882AD016-5533-4589-B449-3D338B8E8574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882AD016-5533-4589-B449-3D338B8E8574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882AD016-5533-4589-B449-3D338B8E8574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C89C013-0A07-4E8A-8A1E-E4DDB07BF8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C89C013-0A07-4E8A-8A1E-E4DDB07BF8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C89C013-0A07-4E8A-8A1E-E4DDB07BF8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C89C013-0A07-4E8A-8A1E-E4DDB07BF8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5254BFC3-CEDE-4D77-9341-C1065C18F00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5254BFC3-CEDE-4D77-9341-C1065C18F00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5254BFC3-CEDE-4D77-9341-C1065C18F00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5254BFC3-CEDE-4D77-9341-C1065C18F00C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7742D04B-1760-46D9-A486-291404FB47F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7742D04B-1760-46D9-A486-291404FB47F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7742D04B-1760-46D9-A486-291404FB47F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7742D04B-1760-46D9-A486-291404FB47F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A5EEB2C-478B-4171-A5D2-E7829CFF3B19}
+	EndGlobalSection
+EndGlobal
